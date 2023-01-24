@@ -54,12 +54,6 @@ Write a function that sorts an array of integers in ascending order using the Bi
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 12. Dealer
 Write a function that sorts a deck of cards.
-Author
-Okwir francis
-GitHub
-Linkedin
-Twitter
-Njeeh Bekah
-GitHub
-Linkedin
-Twitter
+Authors:
+Njeeh Bekah <njeehbekah@gmail.com>
+Okwir Francis <okwirfrancis2010@gmail.com>
